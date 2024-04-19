@@ -1,1 +1,2 @@
-# Midterm_with_bootstrap
+# Mid-2
+https://deedhruba.github.io/Midterm/
